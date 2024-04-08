@@ -1,0 +1,12 @@
+# Conta Bancária em Python
+
+Este é um projeto de exemplo de um sistema de conta bancária implementado em Python. Ele permite que os usuários realizem operações básicas, como depósitos, saques, visualização de extrato, criação de novos usuários e contas.
+
+## Funcionalidades Principais
+
+- **Depositar:** Adiciona fundos à conta.
+- **Sacar:** Retira fundos da conta, respeitando o limite de saldo e número máximo de saques.
+- **Extrato:** Mostra o histórico de transações da conta.
+- **Novo Usuário:** Cria um novo usuário com informações pessoais, como CPF, nome, data de nascimento e endereço.
+- **Nova Conta:** Associa uma nova conta a um usuário existente.
+- **Listar Contas:** Exibe todas as contas associadas aos usuários cadastrados.
